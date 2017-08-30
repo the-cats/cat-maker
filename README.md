@@ -8,3 +8,5 @@ generate cats automatically
 added 2nd idea
 
 cats are sleeping
+
+added line 12
